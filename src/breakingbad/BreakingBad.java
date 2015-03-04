@@ -1,6 +1,7 @@
 /*
  * Juego tipo brick breaker en el que el jugador debe de mover la plataforma
  * con las flechas para poder hacer rebotar un proyectil y destruir las anfetaminas
+ * Base para examen
  */
 package breakingbad;
 
